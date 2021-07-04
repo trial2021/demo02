@@ -59,11 +59,9 @@ body {
     background: white;
 }
 .light #unity-progress-bar-empty {
-    border-radius: 10%;
     border-color: rgb(5, 190, 119);
 }
 .light #unity-progress-bar-full {
-    border-radius: 10%;
     background: rgb(5, 190, 119);
 }
 
